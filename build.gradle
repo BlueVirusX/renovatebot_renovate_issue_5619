@@ -1,7 +1,5 @@
-allprojects {
-    repositories {
-        jcenter()
-    }
+repositories {
+  jcenter()
 }
 
 version = currentVersion
