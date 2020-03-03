@@ -1,5 +1,12 @@
 {
   "extends": [
     "config:base"
+  ],
+  "maven": {
+    "enabled": true
+  },
+  "enabledManagers": [
+    "gradle",
+    "maven"
   ]
 }
