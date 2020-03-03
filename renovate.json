@@ -2,8 +2,5 @@
   "extends": [
     "config:base"
   ],
-  "masterIssue": true,
-  "packageRules": [{
-    "managers": ["gradle"]
-  }]
+  "masterIssue": true
 }
