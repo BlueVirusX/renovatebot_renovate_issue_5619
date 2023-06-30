@@ -7,6 +7,6 @@ version = currentVersion
 apply plugin: 'java'
 
 dependencies {
-    implementation 'com.google.inject:guice:3.0:no_aop'
-    implementation 'com.google.inject:guice:3.0:javadoc'
+    implementation 'com.google.inject:guice:7.0.0:no_aop'
+    implementation 'com.google.inject:guice:7.0.0:javadoc'
 }
